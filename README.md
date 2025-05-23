@@ -1,79 +1,73 @@
-# Olá, Mundo! 👋 Bem-vindo ao perfil de Lucas Lins Lima!
+## Hi there! 👋
 
-Sou o Lucas Lins Lima, um apaixonado por tecnologia e inovação. Aqui você encontrará meus projetos, contribuições e um pouco sobre minha jornada no mundo da programação. Minha paixão reside em transformar ideias em código funcional e escalável. 🌟
+I'm Lucas Lins Lima, a Market Research Analyst. I thrive on data-driven insights and love transforming complex information into actionable strategies.
 
-## 📊 Estatísticas Automáticas do GitHub
+## About Me
 
-Estes cartões são gerados dinamicamente utilizando a API do [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Eles exibem métricas importantes do meu perfil.
+I'm a dynamic and versatile professional based in São Paulo, Brazil. With a strong focus on market research, I leverage data to drive strategic decisions. My passion lies in utilizing technology and innovative methodologies to enhance insights and improve outcomes.
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaslinslima&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+## Skills & Technologies
 
-*   `username`: Define o usuário do GitHub para buscar os dados.
-*   `show_icons`: Exibe ícones ao lado das métricas.
-*   `theme`: Aplica um tema visual (neste caso, `dark`). Existem diversos temas disponíveis na documentação do projeto.
-*   `include_all_commits`: Inclui commits de repositórios privados nas estatísticas gerais.
-*   `count_private`: Conta repositórios privados nas estatísticas gerais.
+flask,docker,html,css,git,github,visualstudio,linux,aws,mongodb,mysql,pycharm,r,nodejs
 
-## 🌟 Tecnologias Mais Utilizadas
+## Top Projects
 
-Este cartão, também do [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), mostra as linguagens de programação mais utilizadas nos meus repositórios públicos, com base no tamanho do código.
+Here are some of my highlighted projects:
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslinslima&layout=compact&theme=dark&hide=html,css)
+1. **[PodGenius](https://github.com/lucas-lins-lima/PodGenius)**  
+   *Description:* An innovative tool that transforms PDF documents into dynamic podcasts using AI.  
+   *Stars:* 0  
+   *Language:* Python  
+   *Forks:* 0  
+   *Issues:* 0  
 
-*   `layout`: Define o estilo de exibição (aqui, `compact`).
-*   `theme`: Aplica o tema visual.
-*   `hide`: Permite ocultar linguagens específicas que você não deseja exibir (útil para tecnologias de marcação como HTML/CSS ou linguagens de configuração).
+2. **[Data_processing](https://github.com/lucas-lins-lima/Data_processing)**  
+   *Description:* Personal study on data processing with a fictitious database. Instructions are in Portuguese.  
+   *Stars:* 0  
+   *Language:* Python  
+   *Forks:* 0  
+   *Issues:* 0  
 
-## 🔥 Contribuições Recentes
+3. **[CEAPs_Data_analysis](https://github.com/lucas-lins-lima/CEAPs_Data_analysis)**  
+   *Description:* Analyzing the CEAPS (Quota for the Exercise of Parliamentary Activity by Senators), detailing all declared expenses by Brazilian senators.  
+   *Stars:* 0  
+   *Language:* Python  
+   *Forks:* 0  
+   *Issues:* 0  
 
-Este gráfico visualiza minha atividade de contribuição no GitHub ao longo do tempo, gerado pelo [GitHub Activity Graph](https://github.com/Ashutosh007/github-activity-graph).
+4. **[MaxDiff](https://github.com/lucas-lins-lima/MaxDiff)**  
+   *Description:* File to generate phrase draw using the MaxDiff concept.  
+   *Stars:* 0  
+   *Language:* Python  
+   *Forks:* 0  
+   *Issues:* 0
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucaslinslima&theme=react-dark)](https://github.com/lucaslinslima)
+## GitHub Stats
 
-*   `username`: O usuário do GitHub.
-*   `theme`: Define o tema visual do gráfico.
+🌟 **Public Repositories:** 10  
+👥 **Followers:** 2  
+👤 **Following:** 0  
 
-## 🚀 Projetos em Destaque
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-lins-lima&show_icons=true&theme=radical)
 
-Aqui estão alguns dos meus projetos principais e mais relevantes. Mantenho esta seção atualizada para refletir meu trabalho mais recente ou impactante.
+## Recent Activity
 
--   **[Projeto 1](https://github.com/lucaslinslima/projeto1)**: Descrição breve do projeto. Mencione a tecnologia principal e o propósito. Ex: Uma aplicação web full-stack construída com React e Node.js para gerenciamento de tarefas.
--   **[Projeto 2](https://github.com/lucaslinslima/projeto2)**: Descrição breve do projeto. Ex: Uma biblioteca em Python para processamento de dados, focada em performance e escalabilidade.
+Here's what I've been up to on GitHub:
 
-## 🌱 Atualmente Aprendendo
+- **Updated** `.env.example` in [PodGenius](https://github.com/lucas-lins-lima/PodGenius) - **May 22, 2025**  
+- **Updated** `requirements.txt` in [PodGenius](https://github.com/lucas-lins-lima/PodGenius) - **May 22, 2025**  
+- **Updated** `main.py` in [PodGenius](https://github.com/lucas-lins-lima/PodGenius) - **May 22, 2025**  
+- **Created** `README.md` in [Gerador_de_podcast](https://github.com/lucas-lins-lima/Gerador_de_podcast) - **May 22, 2025**  
+- **Updated** `podcast_generator.py` in [Gerador_de_podcast](https://github.com/lucas-lins-lima/Gerador_de_podcast) - **May 22, 2025**
 
-Sempre busco novos conhecimentos e agora estou me aprofundando em [Tecnologia/Área de Estudo]. Por exemplo: Explorando as capacidades de Serverless Computing com AWS Lambda e o framework SAM.
+## Latest Blog Posts
 
-## 📬 Conecte-se Comigo
+Check out my articles on various topics:
 
-Sinta-se à vontade para entrar em contato!
+- [My Journey in Market Research](https://medium.com/@lucaslinslima_33180/my-journey-in-market-research)  
+- [Data Analysis Techniques](https://medium.com/@lucaslinslima_33180/data-analysis-techniques)  
+- [The Future of AI in Marketing](https://medium.com/@lucaslinslima_33180/the-future-of-ai-in-marketing)
 
--   **Email**: [lucaslinslima@example.com](mailto:lucaslinslima@example.com)
--   **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/lucaslinslima/) - Conecte-se para oportunidades profissionais e discussões sobre tecnologia.
--   **Twitter**: [Meu Twitter](https://twitter.com/lucaslinslima) - Sigo as últimas tendências e compartilho pensamentos sobre o mundo tech.
+## Connect with Me
 
-## 🛠️ Habilidades e Ferramentas
-
-Utilizo badges do [Shields.io](https://shields.io/) para destacar minhas principais habilidades e ferramentas. É uma forma visual e concisa de apresentar meu stack tecnológico.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-A URL de um badge Shields.io geralmente segue o formato: `https://img.shields.io/badge/{label}-{message}-{color}?style={style}&logo={logo}&logoColor={logoColor}`. Você pode personalizar o texto, a cor, o estilo e o ícone.
-
-## 📈 GitHub Streak
-
-Este cartão, gerado pelo [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats), mostra minha sequência de dias com contribuições, o máximo de dias consecutivos e o total de contribuições no ano atual.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaslinslima&theme=dark)](https://git.io/streak-stats)
-
-*   `user`: O usuário do GitHub.
-*   `theme`: Define o tema visual.
-
----
-
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e projetos. 😊
+{"linkedin":"https://www.linkedin.com/in/lucas-lins-lima/","generic":"https://dev.to/lucaslins_lima"}
