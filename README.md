@@ -1,73 +1,27 @@
-## Hi there! 👋
-
-I'm Lucas Lins Lima, a Market Research Analyst. I thrive on data-driven insights and love transforming complex information into actionable strategies.
-
 ## About Me
 
-I'm a dynamic and versatile professional based in São Paulo, Brazil. With a strong focus on market research, I leverage data to drive strategic decisions. My passion lies in utilizing technology and innovative methodologies to enhance insights and improve outcomes.
+I'm **Lucas Lins Lima**, a Market Research Analyst. I thrive on transforming complex data into actionable insights and am passionate about leveraging technology to optimize research processes. Based in **São Paulo**, I am a dynamic and versatile professional with a strong background in market research and data analysis. My experience allows me to understand market trends and consumer behavior, enabling organizations to make informed decisions.
 
-## Skills & Technologies
+## My Skills
 
-flask,docker,html,css,git,github,visualstudio,linux,aws,mongodb,mysql,pycharm,r,nodejs
-
-## Top Projects
-
-Here are some of my highlighted projects:
-
-1. **[PodGenius](https://github.com/lucas-lins-lima/PodGenius)**  
-   *Description:* An innovative tool that transforms PDF documents into dynamic podcasts using AI.  
-   *Stars:* 0  
-   *Language:* Python  
-   *Forks:* 0  
-   *Issues:* 0  
-
-2. **[Data_processing](https://github.com/lucas-lins-lima/Data_processing)**  
-   *Description:* Personal study on data processing with a fictitious database. Instructions are in Portuguese.  
-   *Stars:* 0  
-   *Language:* Python  
-   *Forks:* 0  
-   *Issues:* 0  
-
-3. **[CEAPs_Data_analysis](https://github.com/lucas-lins-lima/CEAPs_Data_analysis)**  
-   *Description:* Analyzing the CEAPS (Quota for the Exercise of Parliamentary Activity by Senators), detailing all declared expenses by Brazilian senators.  
-   *Stars:* 0  
-   *Language:* Python  
-   *Forks:* 0  
-   *Issues:* 0  
-
-4. **[MaxDiff](https://github.com/lucas-lins-lima/MaxDiff)**  
-   *Description:* File to generate phrase draw using the MaxDiff concept.  
-   *Stars:* 0  
-   *Language:* Python  
-   *Forks:* 0  
-   *Issues:* 0
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
 
 ## GitHub Stats
 
-🌟 **Public Repositories:** 10  
-👥 **Followers:** 2  
-👤 **Following:** 0  
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=lucas-lins-lima&theme=dark&show_icons=true&count_private=true">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-lins-lima&show_icons=true&theme=radical)
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=lucas-lins-lima&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=lucas-lins-lima&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Recent Activity
+## Connect with me
 
-Here's what I've been up to on GitHub:
-
-- **Updated** `.env.example` in [PodGenius](https://github.com/lucas-lins-lima/PodGenius) - **May 22, 2025**  
-- **Updated** `requirements.txt` in [PodGenius](https://github.com/lucas-lins-lima/PodGenius) - **May 22, 2025**  
-- **Updated** `main.py` in [PodGenius](https://github.com/lucas-lins-lima/PodGenius) - **May 22, 2025**  
-- **Created** `README.md` in [Gerador_de_podcast](https://github.com/lucas-lins-lima/Gerador_de_podcast) - **May 22, 2025**  
-- **Updated** `podcast_generator.py` in [Gerador_de_podcast](https://github.com/lucas-lins-lima/Gerador_de_podcast) - **May 22, 2025**
-
-## Latest Blog Posts
-
-Check out my articles on various topics:
-
-- [My Journey in Market Research](https://medium.com/@lucaslinslima_33180/my-journey-in-market-research)  
-- [Data Analysis Techniques](https://medium.com/@lucaslinslima_33180/data-analysis-techniques)  
-- [The Future of AI in Marketing](https://medium.com/@lucaslinslima_33180/the-future-of-ai-in-marketing)
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/lucas-lins-lima/","generic":"https://dev.to/lucaslins_lima"}
+<p align="center">🔗 LinkedIn: <a href="https://github.com/lucas-lins-lima" target="_blank">Lucas Lins Lima</a> Email: lucaslinslima@gmail.com</p>
