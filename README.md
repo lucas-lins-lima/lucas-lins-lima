@@ -13,6 +13,7 @@ I'm **Lucas Lins Lima**, a Market Research Analyst. I thrive on transforming com
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
 
 ## GitHub Stats
 
